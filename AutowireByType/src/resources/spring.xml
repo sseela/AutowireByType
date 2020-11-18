@@ -5,7 +5,7 @@
 	2. byName
 	3. constructor
 	4. autoDetect -->
-
+ 
 <!-- setter DI: byType, byName
 constructor DI: constructor
 autoDetect: works for both -->

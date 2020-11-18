@@ -2,8 +2,11 @@ package beans;
 
 import java.util.List;
 
+import org.springframework.beans.factory.annotation.Autowired;
+
 public class Car {
 
+	@Autowired
 	private Engine engine;
 	
 	private int price;
